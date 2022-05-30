@@ -40,14 +40,14 @@ body {
 
 /* сброса дефолтных стилей */
 ul {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 li, h3 {
-  list-style:none;
+  list-style: none;
 }
 input, .btn{
-  outline:none;
+  outline: none;
 }
 /* конец сброса дефолтных стилей */
 
@@ -142,14 +142,14 @@ input, .btn{
 
 /* Edit Task */
 .tasks__item .input {
-  display:none
+  display: none
 }
 
 .edit-tasks .input {
-  display:inline-block;
+  display: inline-block;
   width:224px
 }
 
 .edit-tasks .label {
-  display:none;
+  display: none;
 }
