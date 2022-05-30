@@ -18,9 +18,11 @@ body {
 }
 
 @media (max-width:768px) {
-.header { 
-	text-align: center;
-}
+
+  .header { 
+    text-align: center;
+  }
+
 }
 .main {
   display: block;
@@ -133,11 +135,7 @@ input, .btn{
 }
 
 /* Completed */
-<<<<<<< HEAD
 #completed-tasks .label {
-=======
-#completed-tasks label {
->>>>>>> 2f42a548e8ba8cbe207532921297147c6f9fa91e
   text-decoration: line-through
   color: #888;
 }
@@ -147,19 +145,11 @@ input, .btn{
   display:none
 }
 
-<<<<<<< HEAD
 .edit-tasks .input {
-=======
-ul .edit-tasks input[type=text] {
->>>>>>> 2f42a548e8ba8cbe207532921297147c6f9fa91e
   display:inline-block;
   width:224px
 }
 
-<<<<<<< HEAD
 .edit-tasks .label {
-=======
-ul .edit-tasks label {
->>>>>>> 2f42a548e8ba8cbe207532921297147c6f9fa91e
   display:none;
 }
